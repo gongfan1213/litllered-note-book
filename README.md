@@ -2,6 +2,12 @@
 
 基于LangGraph和LangChain构建的智能小红书起号助手，帮助用户快速生成高质量的内容策略和文案。
 
+
+![image](https://github.com/user-attachments/assets/814db0a6-27ba-40e4-b6cc-ffa41c658d34)
+
+V0.1-Coze不好用，小红书热点搜索和提取暂时用不了用模拟的
+
+
 ## 🚀 功能特性
 
 - **智能关键词生成**: 基于用户需求自动生成相关关键词
