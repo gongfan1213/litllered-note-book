@@ -1,0 +1,31 @@
+# Core
+langchain==0.1.0
+langchain-community==0.0.10
+langgraph==0.0.20
+langchain-openai==0.0.5
+
+# Environment
+python-dotenv==1.0.0
+
+# Tools
+requests>=2.31.0
+beautifulsoup4==4.12.2
+
+# For state management and persistence
+psycopg2-binary>=2.9.0
+sqlalchemy>=2.0.0
+
+# Additional utilities
+pydantic==2.5.0
+httpx==0.25.2
+asyncio==3.4.3
+aiohttp==3.9.1
+lxml==4.9.3
+tiktoken==0.5.2
+loguru==0.7.2
+typing-extensions==4.8.0
+pytest==7.4.3
+pytest-asyncio==0.21.1
+ipykernel
+anthropic
+playwright 
